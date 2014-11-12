@@ -1,0 +1,14 @@
+# Site settings
+title: Dog Beaches
+email: alexanderleonetti@gmail.com
+description: Central California Doggy Heaven
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+port: 3000
+
+sass:
+  sass_dir: assets/css
+  style: :nested
